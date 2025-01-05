@@ -10743,7 +10743,7 @@
                 "media"
             ],
             "description": "Jellyfin is a Free Software Media System",
-            "healthy": true,
+            "healthy": false,
             "healthy_error": null,
             "home": "https://truecharts.org/charts/stable/jellyfin",
             "location": "/home/runner/_work/catalog/catalog/stable/jellyfin",
